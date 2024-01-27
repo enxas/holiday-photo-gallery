@@ -11,6 +11,6 @@ A photo gallery where users can store and view their photos in various layouts. 
 - Firebase
 
 ### Photos
-![Main application view](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/main-view.png?raw=true)
-![Main application view](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/sign-in-options.png?raw=true)
-![Main application view](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/sign-in-form?raw=true)
+![Main application view](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/images/main-view.png?raw=true)
+![Sign in options](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/images/sign-in-options.png?raw=true)
+![Sign in form](https://github.com/enxas/holiday-photo-gallery/blob/main/docs/images/sign-in-form.png?raw=true)
