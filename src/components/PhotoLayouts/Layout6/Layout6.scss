@@ -1,0 +1,20 @@
+@import '../../../scss/variables.scss';
+
+.layout-6 {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	gap: $gapSmall;
+	margin-bottom: $gapSmall;
+
+	&__left {
+		display: flex;
+		flex-flow: column;
+		gap: $gapSmall;
+	}
+
+	&__img {
+		aspect-ratio: 9/12;
+		object-fit: cover;
+		height: 100% !important;
+	}
+}
